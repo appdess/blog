@@ -1,4 +1,3 @@
-
 ---
 title: "K8s ClusterAPI"
 tags: [K8s,VMC,Storage]

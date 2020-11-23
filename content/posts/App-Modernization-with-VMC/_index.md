@@ -1,4 +1,3 @@
-
 ---
 title: "App modernization with VMC"
 tags: [K8s,VMC,cluster-api,capv]
